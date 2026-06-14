@@ -37,3 +37,9 @@ Label/Placeholder/Role
 CSS
 ↓
 XPath
+
+
+
+LEARN SOURCE
+
+https://demoqa.com/webtables
