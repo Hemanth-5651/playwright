@@ -20,3 +20,20 @@ Playwright needs browser executables.
 Run:
 
 playwright install
+
+
+
+
+priority for selectors
+
+ID
+↓
+data-testid
+↓
+Name
+↓
+Label/Placeholder/Role
+↓
+CSS
+↓
+XPath
